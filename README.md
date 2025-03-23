@@ -1,7 +1,3 @@
-Here's a sample README for your project **SmileShift**:
-
----
-
 # SmileShift
 
 **SmileShift** is an innovative deep learning project aimed at simulating post-operation dental modifications, specifically visualizing the appearance of a patient's teeth after undergoing a cosmetic dental procedure, such as the "Hollywood Smile." By focusing on the facial and dental landmarks, SmileShift reconstructs and visualizes the altered teeth region while retaining the original facial features.
